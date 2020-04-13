@@ -6,4 +6,4 @@ Web App designed to watch videos, that´s a non functional web because that is a
 _______
 
 ## **Architecture**
-This Web App has a architecture with react.js, implements SCSS, Bable, Eslint and WebPack.
+This Web App has a architecture with react.js, implements SCSS, Babel, Eslint and WebPack.

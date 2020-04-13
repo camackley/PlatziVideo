@@ -1,8 +1,12 @@
-body{
-    margin: 0;
-    background-color: orangered;
+@import './Vars.scss';
+@import './Media.scss';
+
+body {
+  margin: 0;
+  font-family: $theme-font;
+  background: $main-color;
 }
 
-h1{
-    color: #ffffff;
+* {
+  box-sizing: border-box;
 }
